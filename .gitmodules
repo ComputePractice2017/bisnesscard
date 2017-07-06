@@ -1,0 +1,6 @@
+[submodule "bisnesscard-server"]
+	path = bisnesscard-server
+	url = https://github.com/ComputePractice2017/bisnesscard-server.git
+[submodule "bisnesscard-web"]
+	path = bisnesscard-web
+	url = https://github.com/ComputePractice2017/bisnesscard-web.git
