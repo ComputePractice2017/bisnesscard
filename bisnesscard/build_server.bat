@@ -1,0 +1,1 @@
+docker build -t bisness-server -f Dockerfile.server .
